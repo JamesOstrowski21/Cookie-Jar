@@ -1,0 +1,16 @@
+C:\Users\james\source\repos\Homework 2\Homework2Proj\bin\Debug\net5.0\Homework2.exe
+C:\Users\james\source\repos\Homework 2\Homework2Proj\bin\Debug\net5.0\Homework2.deps.json
+C:\Users\james\source\repos\Homework 2\Homework2Proj\bin\Debug\net5.0\Homework2.runtimeconfig.json
+C:\Users\james\source\repos\Homework 2\Homework2Proj\bin\Debug\net5.0\Homework2.runtimeconfig.dev.json
+C:\Users\james\source\repos\Homework 2\Homework2Proj\bin\Debug\net5.0\Homework2.dll
+C:\Users\james\source\repos\Homework 2\Homework2Proj\bin\Debug\net5.0\ref\Homework2.dll
+C:\Users\james\source\repos\Homework 2\Homework2Proj\bin\Debug\net5.0\Homework2.pdb
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\Homework2.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\Homework2.AssemblyInfoInputs.cache
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\Homework2.AssemblyInfo.cs
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\Homework2.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\Homework2.dll
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\ref\Homework2.dll
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\Homework2.pdb
+C:\Users\james\source\repos\Homework 2\Homework2Proj\obj\Debug\net5.0\Homework2.genruntimeconfig.cache
