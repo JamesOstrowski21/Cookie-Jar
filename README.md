@@ -7,4 +7,6 @@ for their name which stores how much sugar they are allowed to consume. The jar 
 appropiate sugar content or no cookie if the user has consumed too much sugar. The contents of the jar are then stored 
 in a json file for the next time the user would like a cookie. 
 
+The file "JarTests" contains unit test for the methods of the CookieJar class. 
+
 
